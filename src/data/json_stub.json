@@ -1,0 +1,284 @@
+{
+    "basics": {
+        "name": "Prasad Karad",
+        "label": "Senior Data Engineer",
+        "picture": "",
+        "email": "prasadisworking@mail.com",
+        "phone": "+91 7977068824",
+        "website": "https://prasadkarad.000webhostapp.com/",
+        "summary": "Making sense out of 1s and 0s",
+        "location": {
+            "address": "",
+            "postalCode": "400071",
+            "city": "Mumbai",
+            "countryCode": "IN",
+            "region": "California"
+        },
+        "profiles": [
+            {
+                "network": "Resume",
+                "username": "",
+                "url": "https://hosting-website-file.s3.ap-south-1.amazonaws.com/Resume.pdf"
+            },
+            {
+                "network": "twitter",
+                "username": "@"
+            },
+            {
+                "network": "Portfolio",
+                "url": "https://prasadkarad.000webhostapp.com"
+            },
+            {
+                "network": "github",
+                "username": "prasadiscoding"
+            },
+            {
+                "network": "linkedin",
+                "url": "https://www.linkedin.com/in/prasad-karad-996204160/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "LTIMindtree",
+            "position": "Senior Data Engineer",
+            "website": "https://www.ltimindtree.com/",
+            "startDate": "2021-01-01",
+            "summary": "",
+            "location": "Mumbai, Maharashtra",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Mumbai University",
+            "area": "Information Technology",
+            "studyType": "Bachelor's of Engineering Degree",
+            "startDate": "2016-01-01",
+            "endDate": "2020-01-01",
+            "gpa": "8.1",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+       
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "SQL",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "AWS",
+            "level": "Master",
+            "value": 40,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "PowerBI",
+            "level": "Master",
+            "value": 30,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Excel",
+            "level": "Master",
+            "value": 50,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Tableau",
+            "level": "Master",
+            "value": 30,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "value": 100,
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "value": 100,
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Marathi",
+            "value": 100,
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+          "name": "Football",
+          "gifUrl": "https://hosting-website-file.s3.amazonaws.com/giphy.gif",
+          "keywords": [
+            "Sports",
+            "Football"
+          ]
+        },
+        {
+          "name": "Jamming",
+          "gifUrl": "https://hosting-website-file.s3.ap-south-1.amazonaws.com/giphy+(1).gif",
+          "keywords": [
+            "Arts",
+            "Jamming"
+          ]
+        },
+        {
+          "name": "Gaming",
+          "gifUrl": "https://hosting-website-file.s3.ap-south-1.amazonaws.com/giphy+(2).gif",
+          "keywords": [
+            "Gaming",
+            "Gamer"
+          ],
+          "gifUser": {
+            "name": "Shubham Bhandari",
+            "profileUrl": "https://medium.com/@dev.sb18",
+            "profileAvatarUrl": "https://firebasestorage.googleapis.com/v0/b/dev-sb-web-ultimate.appspot.com/o/gifs%2Fmedium.gif?alt=media&token=4fa57ce3-4db7-4677-8b48-7acc4ec292e2"
+          }
+        }
+      ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ],
+    "projects": [],
+    "specific": {
+        "basics": {
+            "personalDescription": "I am currently working as a Senior Data Engineer at LTIMindtree since the past 3.5 years"
+        },
+        "dreamJob": {
+            "locations": [
+                {
+                    "name": "Dubai, UAE"
+                },
+                {
+                    "name": "Mumbai, India"
+                },
+                {
+                    "name": "Bengaluru, India"
+                }
+            ],
+            "remoteFrequency": {
+                "frequency": "fullTime",
+                "daysPerWeek": 5
+            }
+        },
+        "currentJob": {
+            "issues": {
+                
+            }
+        },
+        "education": {
+            "studiesLevel": 4
+        },
+        "work": {
+            "contractTypes": ["permanent"],
+            "codingReason": "I love to solve problems using code and simplify work on a daily basis",
+            "searchState": "activelySearching",
+            "experienceYears": 3.5,
+            "codeExperienceYears": 3,
+            "otherExperienceYears": 3
+        },
+        "sound": {
+            "embedUrl": "https://open.spotify.com/embed/playlist/4HIoh6RFcbFoHNcJOmudm4"
+        },
+        "interestedBy": "Web3, Dapps, AI" 
+    
+    },
+    "resumeCustomization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "cardsOrder": [
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            },
+            {
+                "type": "soundtrack",
+                "variant": 4
+            },
+            {
+                "type": "social",
+                "variant": 4
+            }
+        ],
+        "fields": {
+            "work": {
+                "customDateFormat": "YYYY"
+            }
+        }
+    }
+}
